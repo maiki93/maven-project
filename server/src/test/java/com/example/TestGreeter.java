@@ -8,6 +8,9 @@ import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
 import static org.junit.matchers.JUnitMatchers.containsString;
 
+/** 
+  A class 
+*/
 public class TestGreeter {
 
   private Greeter greeter;
