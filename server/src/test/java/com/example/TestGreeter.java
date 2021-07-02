@@ -22,8 +22,8 @@ public class TestGreeter {
     String someone = "World";
     Integer x = 3;
     //assertThat(greeter.greet(someone), containsString(someone));
-    //assertThat( 3, 4);
-    assertThat( x, is(4));
+    assertThat( 3, 4);
+    //assertThat( x, is(4));
   }
 
   @Test
