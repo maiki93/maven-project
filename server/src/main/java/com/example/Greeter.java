@@ -1,10 +1,12 @@
 package com.example;
-/** Say Hello.
+
+/** 
+ Say Hello.
  * @author Doug Lowe
  * @author www.LoweWriter.com
  * @version 1.5
  * @since 1.0
-  */
+ */
 public class Greeter {
 
   /** Constructor */
