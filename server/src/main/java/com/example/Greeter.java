@@ -1,7 +1,6 @@
 package com.example;
 
-/** 
- Say Hello.
+/** Say Hello.
  * @author Doug Lowe
  * @author www.LoweWriter.com
  * @version 1.0
@@ -15,8 +14,8 @@ public class Greeter {
   }
 
   /** Say greet with name.
-  @param someone name of a person
-  @return gretting string
+  * @param someone name of a person
+  * @return gretting string
   */
   public final String greet(final String someone) {
     return String.format("Hello babacar, %s!", someone);
