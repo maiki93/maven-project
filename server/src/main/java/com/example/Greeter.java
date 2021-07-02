@@ -9,12 +9,12 @@ package com.example;
  */
 public class Greeter {
 
-  /** Constructor */
+  /** Constructor. */
   public Greeter() {
 
   }
 
-  /** add name
+  /** Say greet with name.
   @param someone name of a person
   @return gretting string
   */
