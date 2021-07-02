@@ -28,7 +28,7 @@
 
   <dependencies>
     <dependency>
-      <groupId>server</groupId>
+      <groupId>com.example.maven-project.server</groupId>
       <artifactId>server</artifactId>
       <!-- scope by default -->
     </dependency>
