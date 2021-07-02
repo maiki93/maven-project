@@ -27,7 +27,12 @@
   </build>
 
   <dependencies>
-
+    <dependency>
+      <groupId>server</groupId>
+      <artifactId>server</artifactId>
+      <!-- scope by default -->
+    </dependency>
+           
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>servlet-api</artifactId>
